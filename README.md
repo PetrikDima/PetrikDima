@@ -1,4 +1,14 @@
-### Hi there, i am Dima 👋
+### Hi there, i am Dima 👋 and I am a programmer specializing in web development. I constantly expand my knowledge and skills in this area.
+
+**Skills:**
+
+Programming languages: Python 🐍
+
+Frameworks and libraries: Flask, Django
+
+Databases: MySQL, PostgreSQL, MongoDB
+
+Tools: Git, Docker, Jupyter Notebook, PyCharm
 
 <!--
 **PetrikDima/PetrikDima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
